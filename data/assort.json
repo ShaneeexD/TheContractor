@@ -1,5 +1,98 @@
 {
-  "items": [],
-  "barter_scheme": {},
-  "loyal_level_items": {}
+  "items": [
+    {
+      "_id": "6ca000000000000000000001",
+      "_tpl": "5c94bbff86f7747ee735c08f",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": { "UnlimitedCount": false, "StackObjectsCount": 1, "BuyRestrictionMax": 1, "BuyRestrictionCurrent": 0 }
+    },
+    {
+      "_id": "6ca000000000000000000002",
+      "_tpl": "5c1d0c5f86f7744bb2683cf0",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": { "UnlimitedCount": false, "StackObjectsCount": 1, "BuyRestrictionMax": 1, "BuyRestrictionCurrent": 0 }
+    },
+    {
+      "_id": "6ca000000000000000000003",
+      "_tpl": "5c1d0efb86f7744baf2e7b7b",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": { "UnlimitedCount": false, "StackObjectsCount": 1, "BuyRestrictionMax": 1, "BuyRestrictionCurrent": 0 }
+    },
+    {
+      "_id": "6ca000000000000000000004",
+      "_tpl": "5c1e495a86f7743109743dfb",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": { "UnlimitedCount": false, "StackObjectsCount": 1, "BuyRestrictionMax": 1, "BuyRestrictionCurrent": 0 }
+    },
+    {
+      "_id": "6ca000000000000000000005",
+      "_tpl": "5c1e2a1e86f77431ea0ea84c",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": { "UnlimitedCount": false, "StackObjectsCount": 1, "BuyRestrictionMax": 1, "BuyRestrictionCurrent": 0 }
+    },
+    {
+      "_id": "6ca000000000000000000006",
+      "_tpl": "5c1d0dc586f7744baf2e7b79",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": { "UnlimitedCount": false, "StackObjectsCount": 1, "BuyRestrictionMax": 1, "BuyRestrictionCurrent": 0 }
+    },
+    {
+      "_id": "6ca000000000000000000007",
+      "_tpl": "5c1d0f4986f7744bb01837fa",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": { "UnlimitedCount": false, "StackObjectsCount": 1, "BuyRestrictionMax": 1, "BuyRestrictionCurrent": 0 }
+    },
+    {
+      "_id": "6ca000000000000000000008",
+      "_tpl": "5c1d0d6d86f7744bb2683e1f",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": { "UnlimitedCount": false, "StackObjectsCount": 1, "BuyRestrictionMax": 1, "BuyRestrictionCurrent": 0 }
+    },
+    {
+      "_id": "6ca000000000000000000009",
+      "_tpl": "5c1e2d1f86f77431e9280bee",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": { "UnlimitedCount": false, "StackObjectsCount": 1, "BuyRestrictionMax": 1, "BuyRestrictionCurrent": 0 }
+    },
+    {
+      "_id": "6ca00000000000000000000a",
+      "_tpl": "5c1f79a086f7746ed066fb8f",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": { "UnlimitedCount": false, "StackObjectsCount": 1, "BuyRestrictionMax": 1, "BuyRestrictionCurrent": 0 }
+    }
+  ],
+  "barter_scheme": {
+    "6ca000000000000000000001": [[ { "count": 140000, "_tpl": "569668774bdc2da2298b4568" } ]],
+    "6ca000000000000000000002": [[ { "count": 1000000, "_tpl": "569668774bdc2da2298b4568" } ]],
+    "6ca000000000000000000003": [[ { "count": 3000000, "_tpl": "569668774bdc2da2298b4568" } ]],
+    "6ca000000000000000000004": [[ { "count": 1000000, "_tpl": "569668774bdc2da2298b4568" } ]],
+    "6ca000000000000000000005": [[ { "count": 500000, "_tpl": "569668774bdc2da2298b4568" } ]],
+    "6ca000000000000000000006": [[ { "count": 1000000, "_tpl": "569668774bdc2da2298b4568" } ]],
+    "6ca000000000000000000007": [[ { "count": 1000000, "_tpl": "569668774bdc2da2298b4568" } ]],
+    "6ca000000000000000000008": [[ { "count": 1000000, "_tpl": "569668774bdc2da2298b4568" } ]],
+    "6ca000000000000000000009": [[ { "count": 500000, "_tpl": "569668774bdc2da2298b4568" } ]],
+    "6ca00000000000000000000a": [[ { "count": 500000, "_tpl": "569668774bdc2da2298b4568" } ]]
+  },
+  "loyal_level_items": {
+    "6ca000000000000000000001": 1,
+    "6ca000000000000000000002": 2,
+    "6ca000000000000000000003": 4,
+    "6ca000000000000000000004": 3,
+    "6ca000000000000000000005": 2,
+    "6ca000000000000000000006": 3,
+    "6ca000000000000000000007": 3,
+    "6ca000000000000000000008": 2,
+    "6ca000000000000000000009": 2,
+    "6ca00000000000000000000a": 2
+  }
 }
