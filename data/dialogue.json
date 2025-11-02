@@ -1,0 +1,17 @@
+{
+  "_id": "contractor001",
+  "messages": [
+    {
+      "text": "Looking for work? I have contracts available.",
+      "type": 0
+    },
+    {
+      "text": "Complete my tasks and you'll be rewarded handsomely.",
+      "type": 0
+    },
+    {
+      "text": "Daily and weekly contracts - your choice.",
+      "type": 0
+    }
+  ]
+}

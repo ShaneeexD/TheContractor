@@ -1,0 +1,107 @@
+{
+  "_id": "64f0ad1b2c3d4e5f67890123",
+  "availableInRaid": false,
+  "avatar": "/trader_thecontractor/data/TheContractor.png",
+  "balance_dol": 100000000,
+  "balance_eur": 0,
+  "balance_rub": 0,
+  "buyer_up": false,
+  "currency": "USD",
+  "customization_seller": false,
+  "discount": 0,
+  "discount_end": 0,
+  "gridHeight": 150,
+  "insurance": {
+    "availability": false,
+    "excluded_category": [],
+    "max_return_hour": 0,
+    "max_storage_time": 0,
+    "min_payment": 0,
+    "min_return_hour": 0
+  },
+  "isAvailableInPVE": true,
+  "isCanTransferItems": false,
+  "isCanTransferItemsFromPve": false,
+  "items_buy": {
+    "category": [],
+    "id_list": []
+  },
+  "items_buy_prohibited": {
+    "category": [],
+    "id_list": []
+  },
+  "items_sell": {
+    "1": {
+      "category": [],
+      "id_list": []
+    }
+  },
+  "location": "Unknown",
+  "loyaltyLevels": [
+    {
+      "buy_price_coef": 100,
+      "exchange_price_coef": 0,
+      "heal_price_coef": 0,
+      "insurance_price_coef": 0,
+      "minLevel": 1,
+      "minSalesSum": 0,
+      "minStanding": 0,
+      "repair_price_coef": 0
+    },
+    {
+      "buy_price_coef": 95,
+      "exchange_price_coef": 0,
+      "heal_price_coef": 0,
+      "insurance_price_coef": 0,
+      "minLevel": 10,
+      "minSalesSum": 50000,
+      "minStanding": 0.25,
+      "repair_price_coef": 0
+    },
+    {
+      "buy_price_coef": 90,
+      "exchange_price_coef": 0,
+      "heal_price_coef": 0,
+      "insurance_price_coef": 0,
+      "minLevel": 20,
+      "minSalesSum": 150000,
+      "minStanding": 0.50,
+      "repair_price_coef": 0
+    },
+    {
+      "buy_price_coef": 85,
+      "exchange_price_coef": 0,
+      "heal_price_coef": 0,
+      "insurance_price_coef": 0,
+      "minLevel": 30,
+      "minSalesSum": 300000,
+      "minStanding": 0.75,
+      "repair_price_coef": 0
+    }
+  ],
+  "mainDialogue": null,
+  "medic": false,
+  "name": "The Contractor",
+  "nextResupply": 1631483553,
+  "nickname": "The Contractor",
+  "prohibitedTransferableItems": {
+    "category": [],
+    "id_list": []
+  },
+  "repair": {
+    "availability": false,
+    "currency": "569668774bdc2da2298b4568",
+    "currency_coefficient": 1,
+    "excluded_category": [],
+    "excluded_id_list": [],
+    "quality": "0"
+  },
+  "sell_category": [],
+  "sell_modifier_for_prohibited_items": 0,
+  "surname": "",
+  "transferableItems": {
+    "category": [],
+    "id_list": []
+  },
+  "unlockedByDefault": true
+}
