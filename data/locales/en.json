@@ -1,0 +1,7 @@
+{
+  "64f0ad1b2c3d4e5f67890150 name": "First Contract: Power Supply",
+  "64f0ad1b2c3d4e5f67890150 description": "I have a client in dire need of energy storage. Bring me one 6-STEN-140-M military battery.",
+  "64f0ad1b2c3d4e5f67890150 note": "Find and hand over 1x 6-STEN-140-M military battery.",
+  "64f0ad1b2c3d4e5f67890150 successMessageText": "Good. This will keep the lights on.",
+  "64f0ad1b2c3d4e5f67890150 failMessageText": "Contract expired. We'll source it elsewhere."
+}

@@ -1,0 +1,48 @@
+{
+  "64f0ad1b2c3d4e5f67890150": {
+    "TraderId": "64f0ad1b2c3d4e5f67890123",
+    "Location": "any",
+    "Conditions": {
+      "AvailableForStart": [
+        {
+          "Id": "000000000000000000000001",
+          "ConditionType": "Level",
+          "CompareMethod": ">=",
+          "Value": 1,
+          "DynamicLocale": true
+        }
+      ],
+      "AvailableForFinish": [
+        {
+          "Id": "000000000000000000000002",
+          "ConditionType": "HandoverItem",
+          "Target": [ "5d03794386f77420415576f5" ],
+          "Value": 1,
+          "onlyFoundInRaid": true,
+          "DynamicLocale": true
+        }
+      ],
+      "Fail": []
+    },
+    "Rewards": {
+      "Started": [],
+      "Success": [
+        {
+          "Type": "Experience",
+          "Value": 15000
+        },
+        {
+          "Type": "TraderStanding",
+          "Target": "64f0ad1b2c3d4e5f67890123",
+          "Value": 0.10
+        },
+        {
+          "Type": "Money",
+          "Target": "569668774bdc2da2298b4568",
+          "Value": 750000
+        }
+      ],
+      "Fail": []
+    }
+  }
+}
